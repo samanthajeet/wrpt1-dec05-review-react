@@ -1,0 +1,12 @@
+.movie-card {
+  ;
+}
+
+.movie-card img {
+  height: 300px;
+}
+
+.movie-cards-container {
+  display: flex;
+  justify-content: space-around;
+}
